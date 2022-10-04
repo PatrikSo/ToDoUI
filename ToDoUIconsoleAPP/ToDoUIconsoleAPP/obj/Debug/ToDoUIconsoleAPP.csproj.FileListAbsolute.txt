@@ -1,0 +1,9 @@
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Debug\ToDoUIconsoleAPP.exe.config
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Debug\ToDoUIconsoleAPP.exe
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Debug\ToDoUIconsoleAPP.pdb
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.csprojAssemblyReference.cache
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.Program.resources
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.csproj.GenerateResource.cache
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.exe
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Debug\ToDoUIconsoleAPP.pdb
