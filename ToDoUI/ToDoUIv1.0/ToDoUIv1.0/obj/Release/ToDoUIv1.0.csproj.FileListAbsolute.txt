@@ -1,0 +1,8 @@
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\bin\Release\ToDoUIv1.0.dll
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\bin\Release\ToDoUIv1.0.pdb
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.csprojAssemblyReference.cache
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1._0.UserControl1.resources
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.csproj.GenerateResource.cache
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.csproj.CoreCompileInputs.cache
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.dll
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.pdb
