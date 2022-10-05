@@ -6,3 +6,4 @@ C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.
 C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.csproj.CoreCompileInputs.cache
 C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.dll
 C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\obj\Release\ToDoUIv1.0.pdb
+C:\Users\PatHQ\source\repos\ToDoUI\ToDoUIv1.0\ToDoUIv1.0\bin\Release\ToDoUIv1.0.dll.config

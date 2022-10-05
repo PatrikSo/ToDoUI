@@ -1,0 +1,8 @@
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Release\ToDoUIconsoleAPP.exe.config
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Release\ToDoUIconsoleAPP.exe
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\bin\Release\ToDoUIconsoleAPP.pdb
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Release\ToDoUIconsoleAPP.Program.resources
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Release\ToDoUIconsoleAPP.csproj.GenerateResource.cache
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Release\ToDoUIconsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Release\ToDoUIconsoleAPP.exe
+C:\Users\PatHQ\source\repos\ToDoUIconsoleAPP\ToDoUIconsoleAPP\ToDoUIconsoleAPP\obj\Release\ToDoUIconsoleAPP.pdb
