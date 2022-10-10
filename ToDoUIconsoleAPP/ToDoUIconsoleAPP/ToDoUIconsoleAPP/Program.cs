@@ -30,9 +30,12 @@ namespace ToDoUIconsoleAPP
         string todaysFilePath = "";
         string dateFormatted = " ";
 
+
         public Program()
         {
             InitializeComponent();
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new System.Drawing.Point(0,0);
             StartUp(label1, richTextBox1);
         }
 
@@ -75,7 +78,7 @@ namespace ToDoUIconsoleAPP
                 Console.WriteLine("File does not exist");
                 FileStream fi = File.Create(filePath);
                 Console.WriteLine("File now exists");
-                fi.Close();
+                //fi.Close();
             }
         }
 
@@ -87,11 +90,11 @@ namespace ToDoUIconsoleAPP
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.label1 = new System.Windows.Forms.Label();
             this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.SuspendLayout();
@@ -106,6 +109,14 @@ namespace ToDoUIconsoleAPP
             this.panel1.Size = new System.Drawing.Size(483, 335);
             this.panel1.TabIndex = 0;
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(0, 55);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(483, 280);
+            this.richTextBox1.TabIndex = 1;
+            this.richTextBox1.Text = "";
+            // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
@@ -117,15 +128,14 @@ namespace ToDoUIconsoleAPP
             this.panel2.Size = new System.Drawing.Size(482, 49);
             this.panel2.TabIndex = 0;
             // 
-            // button1
+            // label1
             // 
-            this.button1.Location = new System.Drawing.Point(0, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(185, 49);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "FILE OPEN";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(402, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(36, 13);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "DATE";
             // 
             // button2
             // 
@@ -137,22 +147,15 @@ namespace ToDoUIconsoleAPP
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
-            // label1
+            // button1
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(402, 18);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(36, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "DATE";
-            // 
-            // richTextBox1
-            // 
-            this.richTextBox1.Location = new System.Drawing.Point(0, 55);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(483, 280);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
+            this.button1.Location = new System.Drawing.Point(0, 0);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(185, 49);
+            this.button1.TabIndex = 0;
+            this.button1.Text = "FILE OPEN";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Program
             // 
